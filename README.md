@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=YunTaeHyeon%20Github&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=YunTaeHyeon%20Github&fontSize=90)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
